@@ -1,0 +1,7 @@
+{
+  "name": "EchoNote Summarize 🎙️",
+  "description": "An intelligent application to record or upload voice notes and instantly receive concise summaries and full transcriptions powered by Gemini. Engage in contextual chats about your notes to extract deeper insights.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
