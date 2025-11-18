@@ -28,9 +28,6 @@ EchoNote Summarise is a voice note summarising tool built using Google AI Studio
 - `public/` assets  
 - `index.html` entry point  
 
-## Screenshots 📸
-(Add screenshots here)
-
 ## How it Works ⚙️
 1. User records or uploads an audio file  
 2. App sends the audio to Google AI Studio  
